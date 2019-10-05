@@ -1,0 +1,3 @@
+C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.exe
+C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfo.cs
