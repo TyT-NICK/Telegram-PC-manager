@@ -1,3 +1,17 @@
 C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.exe
 C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfoInputs.cache
 C:\Users\adm\source\repos\BOT-Home-PC\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfo.cs
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.exe
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.deps.json
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.runtimeconfig.json
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.runtimeconfig.dev.json
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.dll
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\BOT-Home-PC.pdb
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\bin\Debug\netcoreapp3.0\Telegram.Bot.dll
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.csprojAssemblyReference.cache
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfoInputs.cache
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.AssemblyInfo.cs
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.csproj.CopyComplete
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.dll
+C:\Users\adm\Documents\repos\git-hub\Telegram-PC-manager\BOT-Home-PC\obj\Debug\netcoreapp3.0\BOT-Home-PC.pdb
